@@ -8,9 +8,10 @@ redirect_from:
 ---
 I'm currently a third-year master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
 
-<p style="color: red"> I am currently seeking a suitable PhD position for 2026 Spring/Winter. If you're interested, please feel free to contact me! </p>
+<p style="color: red"> I am currently seeking a suitable PhD position for Spring/Winter 2026. If you're interested, please feel free to contact me! </p>
 
-My research  interest lies in many areas, including:
+## Research Interest
+My research interests span the following areas:
 
 1. **AI/ML for Transport Prediction**: Applying advanced AI methods for prediction. My previous studies include real-time crash prediction and electric vehicle charging demand prediction using LSTM-based and GNN-based techniques, respectively.
 2. **Causal Inference**: My previous work includes summarizing the five aspects of interpretability in traffic crash analytics and designing a semi-data-driven Bayesian network structure learning algorithm. I have learned the concept and prepared an initial research proposal about causal inference with 16 pages.
