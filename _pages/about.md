@@ -16,6 +16,8 @@ My research  interest lies in many areas, including:
 2. **Causal Inference**: My previous work includes summarizing the five aspects of interpretability in traffic crash analytics and designing a semi-data-driven Bayesian network structure learning algorithm. I have learned the concept and prepared an initial research proposal about causal inference with 16 pages.
 3. **Uncertainty Quantification**: The sources of uncertainty can be classified into three categories: data, model, and distribution uncertainty. I'm currently working on this topic.
 
+More information can be found in [Publications](https://yifanwang1017.github.io/publications)
+
 # Experience
 - **[May 2025-now]** I was accepted by the [MIT-UF-NEU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao) at MIT, [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) at University of Florida, and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/) at Northeastern University. I will mainly work with [Dr. Yunhan Zheng](https://zhengyunhan.github.io) at MIT.
 - **[Fall semester 2024]** Teaching assistant in Applied Statistics, supervised by [Prof.Xiaoyu Zhang](https://math.tongji.edu.cn/info/1154/11438.htm).
