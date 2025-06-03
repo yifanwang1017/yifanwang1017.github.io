@@ -26,4 +26,4 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 - **[Jan 2020- Jan 2021]** Chairman at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
 - **[Jan 2019- Jan 2020]** Director of Activity Department at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)](https://yifanwang1017.github.io/) visitor, Thank You!🎉🎉
+<a href="https://info.flagcounter.com/oaCa"><img src="https://s01.flagcounter.com/count2/oaCa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
