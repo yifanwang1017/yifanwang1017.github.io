@@ -25,5 +25,5 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 - **[Spring semester 2024]** Teaching assistant in Transportation Statistics Analysis and Modeling, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495) and [Prof. Lishengsa Yue](https://tjjt.tongji.edu.cn/info/2901/9391.htm).
 - **[Jan 2020- Jan 2021]** Chairman at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
 - **[Jan 2019- Jan 2020]** Director of Activity Department at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
-
-<a href="https://info.flagcounter.com/oaCa"><img src="https://s01.flagcounter.com/count2/oaCa/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+- 
+![](https://komarev.com/ghpvc/?username=yifanwang1017.github.io&color=lightgrey)
