@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm currently a third-year master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
 
-**<p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>**
+<p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>
 
 ## Research Interest
 My research interests span the following areas:
