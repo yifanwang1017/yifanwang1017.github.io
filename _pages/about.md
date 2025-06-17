@@ -8,7 +8,7 @@ redirect_from:
 ---
 I'm currently a third-year master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
 
-<p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>
+**<p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>**
 
 ## Research Interest
 My research interests span the following areas:
@@ -24,5 +24,3 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 - **[Fall Semester 2024]** Teaching assistant in Applied Statistics, supervised by [Prof. Xiaoyu Zhang](https://math.tongji.edu.cn/info/1154/11438.htm).
 - **[Spring Semester 2024]** Teaching assistant in Transportation Statistics Analysis and Modeling, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495) and [Prof. Lishengsa Yue](https://tjjt.tongji.edu.cn/info/2901/9391.htm).
 - **[Jan 2020- Jan 2021]** Chairman at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
-
-<a href="https://clustrmaps.com/site/1c6gf"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=ACrhKeWcOvA4AmJZGm-vvBGtMmsjkJPz0jv2SHQeQmM&cl=ffffff" /></a>
