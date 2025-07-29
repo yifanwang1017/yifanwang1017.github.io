@@ -11,7 +11,7 @@ Note: “*” indicates corresponding authorship.
 
 * **Y. Wang**, X. Wang*, T. Wang, and M. Quddus. Freeway real-time crash prediction using floating car data. <i>Transportation Research Part C: Emerging Technologies</i>, vol.171, 2025. [DOI: 10.1016/j.trc.2025.105009.](https://doi.org/10.1016/j.trc.2025.105009) (Q1 TOP, IF=7.9)
 
-* **Y. Wang**, and X. Wang*. Causal relationship discovery for highway crash analysis using semi-data-driven Bayesian network. 2-nd reivew in <i>Accident Analysis and Prevention</i>. (Q1, IF=6.2)
+* **Y. Wang**, and X. Wang*. Causal relationship discovery for highway crash analysis using semi-data-driven Bayesian network. <i>Accident Analysis and Prevention</i>. Accepted. (Q1, IF=6.2)
 
 * Uncertainty quantification and calibration in EV charging demand prediction. Under research.
 
