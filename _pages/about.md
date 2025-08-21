@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm now an incoming Research Assistant at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). Before that, I got my M.Sc (2025) in Transportation Engineering from Tongji University, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
+I'm now an incoming Research Assistant at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). Before that, I got my M.Sc (2025) in Transportation Engineering from Tongji University (QS 8 in China Mainland), supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
 
 <p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>
 
