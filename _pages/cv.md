@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* Fall 2025 - now, Research Assistant
+* Incoming Research Assistant
   * New York University Shanghai
-  * Department: Urban Studies and Computer Science
+  * Department: Computer Science
   * Supervisor: [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao)
 
 ## Education
-* M.S. in Transportation Engineering, Tongji University, 2025
-* B.S. in Applied Mathematics, Tongji University, 2022
+* 2022-now, M.S. in Transportation Engineering, Tongji University
+* 2018-2022, B.S. in Applied Mathematics, Tongji University
 
 [Download CV here](https://yifanwang1017.github.io/files/CV_yifanwang.pdf)
 
