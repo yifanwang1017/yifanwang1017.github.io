@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm now an incoming Research Assistant at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). Before that, I got my M.Sc (2025) in Transportation Engineering from Tongji University, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao). I earned my B.Sc (2022) in Applied Mathematics from Tongji University.
+I'm now a master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao). I earned my B.Sc (2022) in Applied Mathematics from Tongji University. I'm also an incoming Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
 
 <p style="color: red"> I am currently seeking a suitable PhD position for Spring/Fall 2026. If you're interested, please feel free to contact me! </p>
 
@@ -14,7 +14,7 @@ I'm now an incoming Research Assistant at New York University Shanghai, supervis
 My research interests span the following areas:
 
 1. **AI/ML for Traffic Prediction**: Applying advanced AI methods for prediction. My previous studies include real-time crash prediction and electric vehicle charging demand prediction using LSTM-based and GNN-based techniques, respectively.
-2. **Causal Inference**: My previous work includes summarizing the five aspects of interpretability in traffic crash analytics and designing a semi-data-driven Bayesian network structure learning algorithm. I have learned the concept and prepared an initial research proposal about causal inference with 16 pages.
+2. **Causal Inference**: My previous work includes designing a semi-data-driven Bayesian network structure learning algorithm and summarizing the five aspects of model interpretability in traffic crash analytics. I have learned the concept and prepared an initial research proposal about causal inference with 16 pages.
 3. **Uncertainty Quantification**: The sources of uncertainty can be classified into three categories: data, model, and distribution uncertainty. I'm currently working on this topic.
 
 More information can be found in [Publications](https://yifanwang1017.github.io/publications)
