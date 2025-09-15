@@ -14,7 +14,7 @@ I'm now a master candidate in Transportation Engineering at Tongji University, s
 My research interests span the following areas:
 
 1. **AI/ML for Traffic Prediction**: Applying advanced AI methods for prediction. My previous studies include real-time crash prediction and electric vehicle charging demand prediction using LSTM-based and GNN-based techniques, respectively.
-2. **Causal Inference**: My previous work includes designing a semi-data-driven Bayesian network structure learning algorithm and summarizing the five aspects of model interpretability in traffic crash analytics. I have learned the concept and prepared an initial research proposal about causal inference with 16 pages.
+2. **Causal Inference**: My previous work includes designing a semi-data-driven Bayesian network structure learning algorithm and summarizing the five aspects of model interpretability in traffic crash analytics. I am also very familiar with concepts, assumptions, frameworks and methods of causal inference.
 3. **Uncertainty Quantification**: The sources of uncertainty can be classified into three categories: data, model, and distribution uncertainty. I'm currently working on this topic.
 
 More information can be found in [Publications](https://yifanwang1017.github.io/publications)
