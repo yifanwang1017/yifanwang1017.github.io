@@ -22,7 +22,7 @@ repository               : "yifanwang1017/yifanwang1017.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "site-logo.png"
   name             : "Yifan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master @Tongji"
