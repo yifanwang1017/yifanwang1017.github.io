@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Work experience
-* Incoming Research Assistant
+* Research Assistant
   * New York University Shanghai
   * Department: Computer Science
   * Supervisor: [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao)
