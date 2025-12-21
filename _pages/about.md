@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm now a master candidate in Transportation Engineering at Tongji University. I earned my B.Sc (2022) in Mathematics and Applied Mathematics from Tongji University. I'm also a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
+I'm now a master candidate in Transportation Engineering at Tongji University. I earned my B.Sc (2022) in Mathematics and Applied Mathematics from Tongji University. I'm also a Research Assistant in Department of Computer Science at New York University Shanghai.
 
 <p style="color: red"> I am currently seeking a suitable PhD position for 2026. If you're interested, please feel free to contact me! </p>
 
