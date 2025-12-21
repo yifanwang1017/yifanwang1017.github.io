@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm now a master candidate in Transportation Engineering at Tongji University. I earned my B.Sc (2022) in Mathematics and Applied Mathematics from Tongji University. I'm also a Research Assistant in Department of Computer Science at New York University Shanghai.
+I'm now a master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao). I earned my B.Sc (2022) in Mathematics and Applied Mathematics from Tongji University. I'm also a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
 
 <p style="color: red"> I am currently seeking a suitable PhD position for 2026. If you're interested, please feel free to contact me! </p>
 
@@ -23,5 +23,5 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 - **[Oct. 2025 - Now]** I'm employed as a Research Assistant in Department of Computer Science at [New York University Shanghai](https://shanghai.nyu.edu/), supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
 - **[May 2025 - Sep. 2025]** I completed the [MIT-UF-NEU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings) hosted by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao) at MIT, [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) at University of Florida, and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/) at Northeastern University. I worked with [Dr. Yunhan Zheng](https://zhengyunhan.github.io) at MIT.
 - **[Autumn Semester 2024]** Teaching Assistant in Applied Statistics, supervised by [Prof. Xiaoyu Zhang](https://math.tongji.edu.cn/info/1154/11438.htm).
-- **[Spring Semester 2024]** Teaching Assistant in Transportation Statistics Analysis and Modeling, supervised by [Prof. Xuesong Wang](https://tjsafety.cn/MembersInformation.aspx?YNID=487&YNID2=334&ID=495) and [Prof. Lishengsa Yue](https://tjjt.tongji.edu.cn/info/2901/9391.htm).
+- **[Spring Semester 2024]** Teaching Assistant in Transportation Statistics Analysis and Modeling, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao) and [Prof. Lishengsa Yue](https://tjjt.tongji.edu.cn/info/2901/9391.htm).
 - **[Jan. 2020 - Jan. 2021]** Chairman at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
