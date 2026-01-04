@@ -27,3 +27,6 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 - **[Autumn Semester 2024]** Teaching Assistant in Applied Statistics, supervised by [Prof. Xiaoyu Zhang](https://math.tongji.edu.cn/info/1154/11438.htm).
 - **[Spring Semester 2024]** Teaching Assistant in Transportation Statistics Analysis and Modeling, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao) and [Prof. Lishengsa Yue](https://tjjt.tongji.edu.cn/info/2901/9391.htm).
 - **[Jan. 2020 - Jan. 2021]** Chairman at the Mathematics Modeling Organization in Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
+
+## Reviewer
+- IEEE Transactions on Intelligent Vehicles.
