@@ -8,7 +8,9 @@ redirect_from:
 ---
 I'm now a master candidate in Transportation Engineering at Tongji University, supervised by [Prof. Xuesong Wang](https://scholar.google.com/citations?user=qPNyQCsAAAAJ&hl=zh-CN&oi=ao). I earned my B.Sc (2022) in Mathematics and Applied Mathematics from Tongji University. I'm also a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
 
-<p style="color: red"> I am currently seeking a suitable PhD position for 2026. If you're interested, please feel free to contact me! </p>
+<p style="color: red"> I am currently seeking a suitable PhD position for 2026. If you're interested, please feel free to contact me!</p>
+
+Contact: [wangyifan@tongji.edu.cn](mailto:wangyifan@tongji.edu.cn), [yw9871@nyu.edu](mailto:yw9871@nyu.edu), [yifanwang1017@gmail.com](mailto:yifanwang1017@gmail.com).
 
 ## Research Interest
 My research interests span the following areas:
