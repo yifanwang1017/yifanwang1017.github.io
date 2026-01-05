@@ -10,8 +10,6 @@ I'm now a master candidate in Transportation Engineering at Tongji University, s
 
 <p style="color: red"> I am currently seeking a suitable PhD position for 2026. If you're interested, please feel free to contact me!</p>
 
-Contact: [wangyifan@tongji.edu.cn](mailto:wangyifan@tongji.edu.cn), [yw9871@nyu.edu](mailto:yw9871@nyu.edu), [yifanwang1017@gmail.com](mailto:yifanwang1017@gmail.com).
-
 ## Research Interest
 My research interests span the following areas:
 
@@ -30,5 +28,8 @@ More information can be found in [Publications](https://yifanwang1017.github.io/
 
 ## Reviewer
 - IEEE Transactions on Intelligent Vehicles.
+
+## Contact
+[wangyifan@tongji.edu.cn](mailto:wangyifan@tongji.edu.cn), [yw9871@nyu.edu](mailto:yw9871@nyu.edu), [yifanwang1017@gmail.com](mailto:yifanwang1017@gmail.com).
 
 <a href="https://info.flagcounter.com/iew9"><img src="https://s01.flagcounter.com/map/iew9/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
