@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://yifanwang1017.github.io/files/CV_yifanwang.pdf)
+[Download CV here](https://yifanwang1017.github.io/files/CV-Yifan Wang.pdf)
 
 <!-- Education
 ======
