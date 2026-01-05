@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Work experience
-* Research Assistant
-  * New York University Shanghai
-  * Department: Computer Science
-  * Supervisor: [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao)
-
-## Education
-* 2022-now, M.S. in Transportation Engineering, Tongji University
-* 2018-2022, B.S. in Applied Mathematics, Tongji University
-
 [Download CV here](https://yifanwang1017.github.io/files/CV_yifanwang.pdf)
 
 <!-- Education
