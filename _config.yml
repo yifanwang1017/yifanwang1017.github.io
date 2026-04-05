@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Yifan Wang"
 title_separator          : "-"
 name                     : &name "Yifan Wang"
-description              : &description "Master @Tongji, RA @NYU Shanghai"
+description              : &description "Master @Tongji"
 url                      : https://yifanwang1017.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yifanwang1017/yifanwang1017.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yifan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Master @Tongji, RA @NYU Shanghai"
+  bio              : "Master @Tongji"
   location         : "Shanghai, China"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -36,11 +36,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : https://scholar.google.com/citations?user=6LfWJN0AAAAJ #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : https://orcid.org/0009-0004-6844-8837
+  orcid            : #https://orcid.org/0009-0004-6844-8837
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : https://www.scopus.com/authid/detail.uri?authorId=59525888000
+  scopus           : #https://www.scopus.com/authid/detail.uri?authorId=59525888000
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
