@@ -20,7 +20,7 @@ My research interests span the following areas:
 - **Uncertainty Quantification**: Conformal Mixture of Experts was proposed to measure the model uncertainty for EV charging demand prediction.
 
 ## Education
-- Ph.D in Transportation Engineering, University of Wisconsin-Madison, 2026 Fall-Present
+- Ph.D student in Transportation Engineering, University of Wisconsin-Madison, 2026 Fall-Present
 - M.S. in Transportation Engineering, Tongji University.
 - B.S. in Mathematics and Applied Mathematics, Tongji University.
 
