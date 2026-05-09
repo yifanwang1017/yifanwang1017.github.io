@@ -1,12 +1,4 @@
----
-permalink: /
-title: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-I'm an incoming PhD student in Transportation Engineering at the University of Wisconsin-Madison in 2026 Fall, supervised by [Prof. Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/). I'm now a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). 
+Greetings! I'm Yifan Wang (王一凡), an incoming PhD student in Transportation Engineering at the University of Wisconsin-Madison in 2026 Fall, supervised by [Prof. Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/). I'm now a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). 
 
 ## Research Interest
 My research interests span the following areas:
@@ -16,9 +8,9 @@ My research interests span the following areas:
 - **Uncertainty Quantification**: Conformal Mixture of Experts was proposed to measure the model uncertainty for EV charging demand prediction.
 
 ## Education
-- Ph.D in Transportation Engineering, University of Wisconsin-Madison, 2026 Fall
-- M.S. in Transportation Engineering, Tongji University, 2022-2026
-- B.S. in Mathematics and Applied Mathematics, Tongji University, 2018-2022
+- Ph.D in Transportation Engineering, University of Wisconsin-Madison, 2026 Fall-Present
+- M.S. in Transportation Engineering, Tongji University.
+- B.S. in Mathematics and Applied Mathematics, Tongji University.
 
 ## Experience
 - **[Oct. 2025 - Present]**: Research Assistant at Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
