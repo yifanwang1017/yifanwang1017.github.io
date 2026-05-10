@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+\* means the corresponding author.
+
 ## Journal Publications
 * **Wang, Y.**, Wang, X.*, Wang, T., & Quddus, M. (2025) Freeway real-time crash prediction using floating car data. <i>Transportation Research Part C: Emerging Technologies</i>, 171, 105009. [DOI: 10.1016/j.trc.2025.105009.](https://doi.org/10.1016/j.trc.2025.105009) (Q1, IF=7.9)
 * **Wang, Y.**, & Wang, X.* (2025) Causal relationship discovery for highway crash analysis using semi-data-driven Bayesian network. <i>Accident Analysis and Prevention</i>, 221, 108181. [DOI: 10.1016/j.aap.2025.108181.](https://doi.org/10.1016/j.aap.2025.108181) (Q1, IF=6.2)
