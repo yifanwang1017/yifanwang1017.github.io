@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 
 ---
-Greetings! I'm Yifan Wang (王一凡), an incoming PhD student in Transportation Engineering at the University of Wisconsin-Madison in 2026 Fall, supervised by [Prof. Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/). I'm now a Research Assistant in Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao). 
+Greetings!  I am Yifan Wang (王一凡), an incoming PhD student in Transportation Engineering at the University of Wisconsin–Madison for Fall 2026, supervised by [Prof. Bin Ran](https://engineering.wisc.edu/directory/profile/bin-ran/). I am currently a Research Assistant in the Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan). 
 
 ## Research Interest
 My research interests span the following areas:
