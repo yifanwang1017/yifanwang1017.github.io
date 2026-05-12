@@ -26,7 +26,7 @@ My research interests span the following areas:
 
 ## Experience
 - **[Oct. 2025 - Present]**: Research Assistant at Department of Computer Science at New York University Shanghai, supervised by [Prof. Zhaonan Wang](https://scholar.google.com/citations?user=fNdU6I0AAAAJ&hl=zh-CN&oi=ao).
-- **[May 2025 - Sep. 2025]**: Mentor at [MIT-UF-NEU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings), hosted by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao) at MIT, [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) at University of Florida, and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/) at Northeastern University. I worked with [Dr. Yunhan Zheng](https://zhengyunhan.github.io) at MIT, who is an Assistant Professor at Peking University now.
+- **[May 2025 - Sep. 2025]**: Mentee at [MIT-UF-NEU 2025 Joint Summer Research Camp](https://mobility.mit.edu/openings), hosted by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao) at MIT, [Prof. Shenhao Wang](https://dcp.ufl.edu/urp/people_wang_s/) at University of Florida, and [Prof. Haris Koutsopoulos](https://coe.northeastern.edu/people/koutsopoulos-haris/) at Northeastern University. I worked with [Dr. Yunhan Zheng](https://zhengyunhan.github.io) at MIT, who is an Assistant Professor at Peking University now.
 - **[Jan. 2020 - Jan. 2021]**: Chair of Mathematics Modeling Organization at Tongji University, supervised by [Prof. Xiongda Chen](https://math.tongji.edu.cn/info/1122/8165.htm).
 
 ## Teaching
