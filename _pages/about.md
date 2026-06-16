@@ -38,6 +38,6 @@ My research interests span the following areas:
 - IEEE Transactions on Intelligent Vehicles.
 
 ## Contact
-[wangyifan@tongji.edu.cn](mailto:wangyifan@tongji.edu.cn), [yw9871@nyu.edu](mailto:yw9871@nyu.edu), [yifanwang1017@gmail.com](mailto:yifanwang1017@gmail.com).
+[yifan.wang@wisc.edu](mailto:wangyifan@tongji.edu.cn), [yifanwang1017@gmail.com](mailto:yifanwang1017@gmail.com).
 
 <a href="https://info.flagcounter.com/iew9"><img src="https://s01.flagcounter.com/map/iew9/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
