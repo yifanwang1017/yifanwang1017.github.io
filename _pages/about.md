@@ -34,6 +34,7 @@ My research interests span the following areas:
 - **[Spring 2024]** Teaching Assistant in Transportation Statistics Analysis and Modeling, College of Transportation, Tongji University.
 
 ## Reviewer
+- Transportation Research Part C: Emerging Technologies.
 - IEEE Open Journal of Intelligent Transportation Systems.
 - IEEE Transactions on Intelligent Vehicles.
 - Transportation Research Board Annual Meeting.
