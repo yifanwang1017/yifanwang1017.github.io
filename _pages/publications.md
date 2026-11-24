@@ -16,5 +16,4 @@ author_profile: true
 
 
 ## Patents
-* Wang, X., & **Wang, Y.** (2026). A traffic safety estimation and optimization method for mountainous roads. China
-Patent, CN114757647A. (in Chinese)
+* Wang, X., & **Wang, Y.** (2026). A traffic safety estimation and optimization method for mountainous roads. [CN115936308B](https://kns.cnki.net/kcms2/article/abstract?v=GJlEMrJefi_v2pw54jg5b3nK6sckOQmuWSnCYLNOw0rpHon0t4BCfx5_CXfvGG8y1frMOcWmwt5mfRO_5hfFfJ2bChZtf0NSUzZZcHbhVD2ajTn35maPFErsewQS5NvWXcg2X4GeQ3eFdFmZykwPspkTCiqreFTH33f74xH7PHmxfIfMlLCiSg==).
